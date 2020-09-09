@@ -13,10 +13,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b28f8e1a-f9e1-4364-abf8-e5f599d3b114" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/BookReservationTest.php" afterDir="false" />
+    <list default="true" id="b28f8e1a-f9e1-4364-abf8-e5f599d3b114" name="Default Changelist" comment="initial sqlite">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_9_7_20__3_23_PM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,8 +173,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599481279320</updated>
-      <workItem from="1599481280517" duration="8621000" />
+      <workItem from="1599481280517" duration="11127000" />
     </task>
+    <task id="LOCAL-00001" summary="Add th book resource">
+      <created>1599498987328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599498987328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="book test">
+      <created>1599499010191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599499010191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update git ignore to exclude the idea folder">
+      <created>1599499121216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599499121216</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial sqlite">
+      <created>1599499164448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599499164448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +220,13 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add th book resource" />
+    <MESSAGE value="book test" />
+    <MESSAGE value="update git ignore to exclude the idea folder" />
+    <MESSAGE value="initial sqlite" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial sqlite" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="429" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599485307307">
       <screen x="0" y="0" width="1366" height="768" />
@@ -198,9 +240,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="502" y="141" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.0.1366.768@0.0.1366.768" timestamp="1599490154204" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599490001544">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599499496219">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599490001544" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599499496219" />
   </component>
 </project>
